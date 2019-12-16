@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Exo2SemiBold';
+    src: url('../fonts/Exo2 SemiBold/Exo2SemiBold.eot');
+    src: url('../fonts/Exo2 SemiBold/Exo2SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Exo2 SemiBold/Exo2SemiBold.woff2') format('woff2'),
+         url('../fonts/Exo2 SemiBold/Exo2SemiBold.woff') format('woff'),
+         url('../fonts/Exo2 SemiBold/Exo2SemiBold.ttf') format('truetype'),
+         url('../fonts/Exo2 SemiBold/Exo2SemiBold.svg#Exo2SemiBold') format('svg');
+}
+
+@font-face {
+    font-family: 'FuturaBTBold';
+    src: url('../fonts/FuturaBT Bold/FuturaBTBold.eot');
+    src: url('../fonts/FuturaBT Bold/FuturaBTBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/FuturaBT Bold/FuturaBTBold.woff2') format('woff2'),
+         url('../fonts/FuturaBT Bold/FuturaBTBold.woff') format('woff'),
+         url('../fonts/FuturaBT Bold/FuturaBTBold.ttf') format('truetype'),
+         url('../fonts/FuturaBT Bold/FuturaBTBold.svg#FuturaBTBold') format('svg');
+}
+
+@font-face {
+    font-family: 'Parangon530C';
+    src: url('../fonts/Parangon 530C/Parangon530C.eot');
+    src: url('../fonts/Parangon 530C/Parangon530C.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Parangon 530C/Parangon530C.woff2') format('woff2'),
+         url('../fonts/Parangon 530C/Parangon530C.woff') format('woff'),
+         url('../fonts/Parangon 530C/Parangon530C.ttf') format('truetype'),
+         url('../fonts/Parangon 530C/Parangon530C.svg#Parangon530C') format('svg');
+}
+
+@font-face {
+    font-family: 'UniSansHeavyCaps';
+    src: url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.eot');
+    src: url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.woff2') format('woff2'),
+         url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.woff') format('woff'),
+         url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.ttf') format('truetype'),
+         url('../fonts/UniSansHeavyCaps/UniSansHeavyCaps.svg#UniSansHeavyCaps') format('svg');
+}
